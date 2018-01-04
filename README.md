@@ -1,2 +1,1 @@
 # instahack
-İnstahack
